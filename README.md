@@ -41,3 +41,18 @@ and easy to use.
 This project is currently in the planning process. I am choosing the tech stack I would like to use
 for each area of the project and outline the goals, functions, and features of the application. Development
 set to begin soon.
+
+## Scope
+
+#### Essential features:
+
+- user can select stores
+- centralized search bar (across all stores)
+- filters (price, brand, color, sleeve length, category, etc.)
+- display results in a visually appealing way
+
+#### Future Features:
+
+- Wishlist
+- Sale alerts
+- Sharing to social media
