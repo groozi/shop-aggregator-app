@@ -21,7 +21,7 @@ clothing items I am looking for. I keep a list holding all the different stores 
 to let users shop across all of their favorite online shops from one convenient location, that is also aesthetically-pleasing
 and easy to use.
 
-# Goals
+## Goals
 
 - Practice front-end and back-end development
 - Build a user-friendly interface
@@ -29,14 +29,14 @@ and easy to use.
 - Explore product searching and API integration
 - Showcase a real-word problem I regularly face with a practical solution
 
-# Tech Stack
+## Tech Stack
 
 - Frontend:
 - Backend:
 - API/Scraping:
 - Hosting:
 
-# Current Status
+## Current Status
 
 This project is currently in the planning process. I am choosing the tech stack I would like to use
 for each area of the project and outline the goals, functions, and features of the application. Development
